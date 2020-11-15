@@ -1,0 +1,35 @@
+.heading{
+    font-size: 4rem;
+    font-weight: bolder;
+}
+
+li{
+    font-size: 3rem;
+    list-style: upper-roman;
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+.del{
+    margin: 13px;
+    font-size: 2rem;
+}
+
+.check{
+    margin: 13px;
+    font-size: 2rem;
+}
+
+#first{
+    font-size: 2rem;
+}
+
+#userinput{
+    font-size: 2rem;
+}
+
+#enter{
+    font-size: 2rem;
+}
